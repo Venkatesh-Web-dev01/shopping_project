@@ -20,6 +20,24 @@
 
 ## ✨ Features
 
+<section class="features-section">
+  <h2>✨ Features</h2>
+  <ul class="features-list">
+    <li>🛍️ Browse featured products</li>
+    <li>🔎 Product search interface</li>
+    <li>🏷️ Category-based product filtering</li>
+    <li>💰 Product pricing and discount display</li>
+    <li>⭐ Product ratings</li>
+    <li>📦 Stock availability information</li>
+    <li>➕➖ Product quantity controls</li>
+    <li>🛒 Add products to cart</li>
+    <li>🧾 Dynamic cart and subtotal calculation</li>
+    <li>💳 Checkout form</li>
+    <li>📱 Responsive and modern user interface</li>
+    <li>⚡ Fast development and build environment using Vite</li>
+  </ul>
+</section>
+
 * 🛍️ Browse featured products
 * 🔎 Product search interface
 * 🏷️ Category-based product filtering
