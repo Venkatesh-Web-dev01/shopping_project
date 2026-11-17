@@ -18,7 +18,6 @@
 ---
 ---
 
-## ✨ Features
 
 <section class="features-section">
   <h2>✨ Features</h2>
