@@ -38,18 +38,6 @@
   </ul>
 </section>
 
-* 🛍️ Browse featured products
-* 🔎 Product search interface
-* 🏷️ Category-based product filtering
-* 💰 Product pricing and discount display
-* ⭐ Product ratings
-* 📦 Stock availability information
-* ➕➖ Product quantity controls
-* 🛒 Add products to cart
-* 🧾 Dynamic cart and subtotal calculation
-* 💳 Checkout form
-* 📱 Responsive and modern user interface
-* ⚡ Fast development and build environment using Vite
 
 ## 🧰 Technologies Used
 
