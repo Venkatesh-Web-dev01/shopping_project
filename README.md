@@ -2,7 +2,20 @@
 
 **UrbanCart** is a modern and responsive e-commerce web application built with **React.js and Vite**. It provides a clean shopping interface where users can browse products, filter products by category, manage quantities, add items to a shopping cart, view the cart total, and proceed through a checkout form.## 🎨 Styling & Responsive Design
 
+<div align="center">
 
+# 🛒 UrbanCart – Modern E-Commerce Shopping App
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*A modern and responsive e-commerce web application built with React.js, Vite, and CSS3.*
+
+</div>
+
+---
 ---
 
 ## ✨ Features
